@@ -1,0 +1,112 @@
+header:
+  - titles:
+      # @start locale config
+      en      : &EN       Archive
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  归档
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  歸檔
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       아카이브
+      ko-KR   : *KO
+      fr      : &FR       Archives
+      fr-BE   : *FR
+      fr-CA   : *FR
+      fr-CH   : *FR
+      fr-FR   : *FR
+      fr-LU   : *FR
+      tr      : &TR       Arşivdekiler
+      # @end locale config
+    url: /archive.html
+  
+  - titles:
+      en      : &EN       MML
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      ko      : &KO       MML
+      ko-KR   : *KO
+    url: https://junstar92.github.io/mml-study-note/
+
+  - titles:
+      en      : &EN       PRML
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      ko      : &KO       PRML
+      ko-KR   : *KO
+    url: https://junstar92.github.io/prml-study-note/
+    target: _blank
+    
+  - titles:
+      en      : &EN       Blog
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      ko      : &KO       Blog
+      ko-KR   : *KO
+    url: https://junstar92.tistory.com/
+    target: _blank
+
+  - titles:
+      en      : &EN       Github
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      ko      : &KO       Github
+      ko-KR   : *KO
+    url: https://github.com/junstar92/mml-study-note
+    target: _blank
+
+docs-en:
+  - title:      Ch 1. Introduction and Motivation
+    children:
+      - title: 0. Intro
+        url: /2022/06/27/ch1-0.html
+      - title: 1. Finding Words for Intuitions
+        url: /2022/06/28/ch1-1.html
+
+  - title:      Ch 2. Linear Algebra
+    children:
+      - title: 0. Intro
+        url: /2022/06/28/ch2-0.html
+  
+  - title:      Ch 3. Analytic Geometry
+    children:
+
+  - title:      Ch 4. Matrix Decompositions
+    children:
+
+  - title:      Ch 5. Vector Calculus
+    children:
+
+  - title:      Ch 6. Probability and Distributions
+    children:
+
+  - title:      Ch 7. Continuous Optimization
+    children:
+
+  - title:      Ch 8. When Models Meet Data
+    children:
+
+  - title:      Ch 9. Linear Regression
+    children:
+
+  - title:      Ch 10. Dimensionality Reduction with Principal Component Analysis
+    children:
+
+  - title:      Ch 11. Density Estimation with Gaussian Mixture Models
+    children:
+
+  - title:      Ch 12. Classification with Support Vector Machines
+    children:
