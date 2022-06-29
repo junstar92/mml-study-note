@@ -80,6 +80,12 @@ docs-en:
     children:
       - title: 0. Intro
         url: /2022/06/28/ch2-0.html
+      - title: 1. Systems of Linear Equations
+        url: /2022/06/29/ch2-1.html
+      - title: 2. Matrices
+        url: /2022/06/30/ch2-2.html
+      - title: 3. Solving Systems of Linear Equations
+        url: /2022/07/01/ch2-3.html
   
   - title:      Ch 3. Analytic Geometry
     children:
