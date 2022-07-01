@@ -72,20 +72,20 @@ docs-en:
   - title:      Ch 1. Introduction and Motivation
     children:
       - title: 0. Intro
-        url: /2022/06/27/ch1-0.html
+        url: /2022/06/27/ch1-0
       - title: 1. Finding Words for Intuitions
-        url: /2022/06/28/ch1-1.html
+        url: /2022/06/28/ch1-1
 
   - title:      Ch 2. Linear Algebra
     children:
       - title: 0. Intro
-        url: /2022/06/28/ch2-0.html
+        url: /2022/06/28/ch2-0
       - title: 1. Systems of Linear Equations
-        url: /2022/06/29/ch2-1.html
+        url: /2022/06/29/ch2-1
       - title: 2. Matrices
-        url: /2022/06/30/ch2-2.html
+        url: /2022/06/30/ch2-2
       - title: 3. Solving Systems of Linear Equations
-        url: /2022/07/01/ch2-3.html
+        url: /2022/07/01/ch2-3
   
   - title:      Ch 3. Analytic Geometry
     children:
