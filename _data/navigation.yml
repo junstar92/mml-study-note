@@ -86,6 +86,10 @@ docs-en:
         url: /2022/06/30/ch2-2
       - title: 3. Solving Systems of Linear Equations
         url: /2022/07/01/ch2-3
+      - title: 4. Vector Spaces
+        url: /2022/07/02/ch2-4
+      - title: 5. Linear Independence
+        url: /2022/07/04/ch2-5
   
   - title:      Ch 3. Analytic Geometry
     children:
