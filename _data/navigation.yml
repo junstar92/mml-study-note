@@ -92,6 +92,8 @@ docs-en:
         url: /2022/07/03/ch2-5.html
       - title: 6. Basis and Rank
         url: /2022/07/04/ch2-6.html
+      - title: 7. Linear Mappings
+        url: /2022/07/05/ch2-7.html
   
   - title:      Ch 3. Analytic Geometry
     children:
