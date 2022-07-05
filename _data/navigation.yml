@@ -94,6 +94,8 @@ docs-en:
         url: /2022/07/04/ch2-6.html
       - title: 7. Linear Mappings
         url: /2022/07/05/ch2-7.html
+      - title: 8. Affine Spaces
+        url: /2022/07/06/ch2-8.html
   
   - title:      Ch 3. Analytic Geometry
     children:
