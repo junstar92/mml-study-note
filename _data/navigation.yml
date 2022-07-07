@@ -105,7 +105,6 @@ docs-en:
         url: /2022/07/07/ch3-1.html
       - title: 2. Inner Products
         url: /2022/07/07/ch3-2.html
-      - title: 3. Lengths and Distances
 
   - title:      Ch 4. Matrix Decompositions
     children:
