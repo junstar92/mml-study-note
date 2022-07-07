@@ -99,6 +99,13 @@ docs-en:
   
   - title:      Ch 3. Analytic Geometry
     children:
+      - title: 0. Intro
+        url: /2022/07/07/ch3-0.html
+      - title: 1. Norms
+        url: /2022/07/07/ch3-1.html
+      - title: 2. Inner Products
+        url: /2022/07/07/ch3-2.html
+      - title: 3. Lengths and Distances
 
   - title:      Ch 4. Matrix Decompositions
     children:
