@@ -7,7 +7,7 @@
   @include media-breakpoint-down(lg) {
     padding: 0 map-get($spacers, 4);
   }
-  @include media-breakpoint-down(mmd) {
+  @include media-breakpoint-down(md) {
     padding: 0 map-get($spacers, 3);
   }
 }

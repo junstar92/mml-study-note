@@ -6,7 +6,7 @@
   .main {
     padding-top: map-get($spacers, 4);
     padding-bottom: map-get($spacers, 4);
-    @include media-breakpoint-down(mmd) {
+    @include media-breakpoint-down(md) {
       position: absolute;
       padding: 0;
     }
@@ -24,7 +24,7 @@
   .search--dark & {
     color: $text-color-theme-dark-d;
   }
-  @include media-breakpoint-down(mmd) {
+  @include media-breakpoint-down(md) {
     display: none;
   }
 }
@@ -38,7 +38,7 @@
   position: relative;
   width: 100%;
   max-width: 22rem;
-  @include media-breakpoint-down(mmd) {
+  @include media-breakpoint-down(md) {
     width: 100%;
     max-width: none;
   }
