@@ -3,14 +3,14 @@
   color: $text-color-l;
   .left-col {
     float: left;
-    @include media-breakpoint-down(md) {
+    @include media-breakpoint-down(mmd) {
       float: none;
     }
   }
   .right-col {
     float: right;
     margin-left: map-get($button, padding-x-sm);
-    @include media-breakpoint-down(md) {
+    @include media-breakpoint-down(mmd) {
       float: none;
     }
     & > li {

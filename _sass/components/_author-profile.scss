@@ -4,7 +4,7 @@
   margin: map-get($spacers, 4) 0;
   font-size: map-get($base, font-size-sm);
   background-color: $text-background-color;
-  @include media-breakpoint-down(md) {
+  @include media-breakpoint-down(mmd) {
     text-align: center;
   }
 }

@@ -1,6 +1,6 @@
 .item {
   @include flexbox();
-  @include media-breakpoint-down(md) {
+  @include media-breakpoint-down(mmd) {
     @include flex-direction(column);
   }
 }
@@ -15,7 +15,7 @@
       }
     }
   }
-  @include media-breakpoint-down(md) {
+  @include media-breakpoint-down(mmd) {
     margin-right: 0;
   }
 }
@@ -71,7 +71,7 @@ a > .item__header, a.item__header, .item__header > a {
     }
     img {
       max-height: 32rem;
-      @include media-breakpoint-down(md) {
+      @include media-breakpoint-down(mmd) {
         max-height: 14rem;
       }
     }
