@@ -109,6 +109,12 @@ docs-en:
         url: /2022/07/08/ch3-3.html
       - title: 4. Angles and Orthogonality
         url: /2022/07/08/ch3-4.html
+      - title: 5. Orthonormal Basis
+        url: /2022/07/09/ch3-5.html
+      - title: 6. Orthogonal Complement
+        url: /2022/07/09/ch3-6.html
+      - title: 7. Inner Product of Functions
+        url: /2022/07/09/ch3-7.html
 
   - title:      Ch 4. Matrix Decompositions
     children:
