@@ -115,6 +115,10 @@ docs-en:
         url: /2022/07/09/ch3-6.html
       - title: 7. Inner Product of Functions
         url: /2022/07/09/ch3-7.html
+      - title: 8. Orthogonal Projections
+        url: /2022/07/10/ch3-8.html
+      - title: 9. Rotations
+        url: /2022/07/10/ch3-9.html
 
   - title:      Ch 4. Matrix Decompositions
     children:
