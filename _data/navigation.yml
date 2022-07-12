@@ -122,6 +122,10 @@ docs-en:
 
   - title:      Ch 4. Matrix Decompositions
     children:
+      - title: 0. Intro
+        url: /2022/07/12/ch4-0.html
+      - title: 1. Determinant and Trace
+        url: /2022/07/12/ch4-1.html
 
   - title:      Ch 5. Vector Calculus
     children:
