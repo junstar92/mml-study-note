@@ -126,6 +126,8 @@ docs-en:
         url: /2022/07/12/ch4-0.html
       - title: 1. Determinant and Trace
         url: /2022/07/12/ch4-1.html
+      - title: 2. Eigenvalues and Eigenvectors
+        url: /2022/07/13/ch4-2.html
 
   - title:      Ch 5. Vector Calculus
     children:
