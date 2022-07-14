@@ -128,6 +128,8 @@ docs-en:
         url: /2022/07/12/ch4-1.html
       - title: 2. Eigenvalues and Eigenvectors
         url: /2022/07/13/ch4-2.html
+      - title: 3. Cholesky Decomposition
+        url: /2022/07/14/ch4-3.html
 
   - title:      Ch 5. Vector Calculus
     children:
