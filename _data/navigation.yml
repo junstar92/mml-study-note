@@ -130,6 +130,8 @@ docs-en:
         url: /2022/07/13/ch4-2.html
       - title: 3. Cholesky Decomposition
         url: /2022/07/14/ch4-3.html
+      - title: 4. Eigendecomposition and Diagonalization
+        url: /2022/07/15/ch4-4.html
 
   - title:      Ch 5. Vector Calculus
     children:
