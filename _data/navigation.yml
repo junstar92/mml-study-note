@@ -134,6 +134,10 @@ docs-en:
         url: /2022/07/15/ch4-4.html
       - title: 5. Singular Value Decomposition
         url: /2022/07/16/ch4-5.html
+      - title: 6. Matrix Approximation
+        url: /2022/07/17/ch4-6.html
+      - title: 7. Matrix Phylogeny
+        url: /2022/07/17/ch4-7.html
 
   - title:      Ch 5. Vector Calculus
     children:
