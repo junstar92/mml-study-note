@@ -34,7 +34,7 @@ html,
 
 .page__main-inner {
   position: relative;
-  min-width: map-get($layout, article_min_width) + map-get($layout, aside-width);
+  //min-width: map-get($layout, article_min_width) + map-get($layout, aside-width);
   @include flexbox();
   @include flex-direction(column);
   min-height: 100%;

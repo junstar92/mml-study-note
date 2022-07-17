@@ -1,6 +1,6 @@
 .header {
   background: $header-background;
-  min-width: map-get($layout, article_min_width) + map-get($layout, aside-width);
+  //min-width: map-get($layout, article_min_width) + map-get($layout, aside-width);
   a {
     font-weight: map-get($base, font-weight);
     text-decoration: none !important;
