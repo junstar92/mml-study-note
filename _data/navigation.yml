@@ -141,6 +141,10 @@ docs-en:
 
   - title:      Ch 5. Vector Calculus
     children:
+      - title: 0. Intro
+        url: /2022/07/18/ch5-0.html
+      - title: 1. Differentiation of Univariate Functions
+        url: /2022/07/18/ch5-1.html
 
   - title:      Ch 6. Probability and Distributions
     children:
