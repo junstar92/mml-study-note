@@ -145,6 +145,11 @@ docs-en:
         url: /2022/07/18/ch5-0.html
       - title: 1. Differentiation of Univariate Functions
         url: /2022/07/18/ch5-1.html
+      - title: 2. Partial Differentiation and Gradients
+        url: /2022/07/19/ch5-2.html
+      - title: 3. Gradients of Vector-Valued Functions
+        url: /2022/07/19/ch5-3.html
+      - title: 4. Gradients of Matrices
 
   - title:      Ch 6. Probability and Distributions
     children:
