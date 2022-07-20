@@ -150,6 +150,9 @@ docs-en:
       - title: 3. Gradients of Vector-Valued Functions
         url: /2022/07/19/ch5-3.html
       - title: 4. Gradients of Matrices
+        url: /2022/07/20/ch5-4.html
+      - title: 5. Useful Identities for Computing Gradients
+        url: /2022/07/20/ch5-5.html
 
   - title:      Ch 6. Probability and Distributions
     children:
