@@ -153,6 +153,8 @@ docs-en:
         url: /2022/07/20/ch5-4.html
       - title: 5. Useful Identities for Computing Gradients
         url: /2022/07/20/ch5-5.html
+      - title: 6. Backpropagation and Automatic Differentiation
+        url: /2022/07/21/ch5-6.html
 
   - title:      Ch 6. Probability and Distributions
     children:
