@@ -155,6 +155,10 @@ docs-en:
         url: /2022/07/20/ch5-5.html
       - title: 6. Backpropagation and Automatic Differentiation
         url: /2022/07/21/ch5-6.html
+      - title: 7. Higher-Order Derivatives
+        url: /2022/07/22/ch5-7.html
+      - title: 8. Linearization and Multivariate Taylor Series
+        url: /2022/07/22/ch5-8.html
 
   - title:      Ch 6. Probability and Distributions
     children:
