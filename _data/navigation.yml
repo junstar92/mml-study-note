@@ -162,6 +162,10 @@ docs-en:
 
   - title:      Ch 6. Probability and Distributions
     children:
+      - title: 0. Intro
+        url: /2022/07/25/ch6-0.html
+      - title: 1. Construction of a Probability Space
+        url: /2022/07/25/ch6-1.html
 
   - title:      Ch 7. Continuous Optimization
     children:
