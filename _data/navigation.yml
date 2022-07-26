@@ -166,6 +166,10 @@ docs-en:
         url: /2022/07/25/ch6-0.html
       - title: 1. Construction of a Probability Space
         url: /2022/07/25/ch6-1.html
+      - title: 2. Discrete and Continuous Probabilities
+        url: /2022/07/26/ch6-2.html
+      - title: 3. Sum Rule, Product Rule, and Bayes' Theorem
+        url: /2022/07/26/ch6-3.html
 
   - title:      Ch 7. Continuous Optimization
     children:
