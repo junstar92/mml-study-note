@@ -170,6 +170,8 @@ docs-en:
         url: /2022/07/26/ch6-2.html
       - title: 3. Sum Rule, Product Rule, and Bayes' Theorem
         url: /2022/07/26/ch6-3.html
+      - title: 4. Summary Statistics and Independence
+        url: /2022/07/27/ch6-4.html
 
   - title:      Ch 7. Continuous Optimization
     children:
