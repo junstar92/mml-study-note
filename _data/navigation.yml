@@ -172,6 +172,8 @@ docs-en:
         url: /2022/07/26/ch6-3.html
       - title: 4. Summary Statistics and Independence
         url: /2022/07/27/ch6-4.html
+      - title: 5. Gaussian Distribution
+        url: /2022/08/02/ch6-5.html
 
   - title:      Ch 7. Continuous Optimization
     children:
