@@ -176,6 +176,8 @@ docs-en:
         url: /2022/08/02/ch6-5.html
       - title: 6. Conjugacy and the Exponential Family
         url: /2022/08/04/ch6-6.html
+      - title: 7. Change of Variables/Inverse Transform
+        url: /2022/08/05/ch6-7.html
 
   - title:      Ch 7. Continuous Optimization
     children:
