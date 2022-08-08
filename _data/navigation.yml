@@ -183,6 +183,8 @@ docs-en:
     children:
       - title: 0. Intro
         url: /2022/08/07/ch7-0.html
+      - title: 1. Optimization Using Gradient Descent
+        url: /2022/08/08/ch7-1.html
 
   - title:      Ch 8. When Models Meet Data
     children:
