@@ -33,18 +33,7 @@ header:
       en-AU   : *EN
       ko      : &KO       MML
       ko-KR   : *KO
-    url: https://junstar92.github.io/mml-study-note/
-
-  - titles:
-      en      : &EN       PRML
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      ko      : &KO       PRML
-      ko-KR   : *KO
-    url: https://junstar92.github.io/prml-study-note/
-    target: _blank
+    url: https://junstar92.github.io/mml-study-note/ß
     
   - titles:
       en      : &EN       Blog
