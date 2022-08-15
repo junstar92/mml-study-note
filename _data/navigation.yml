@@ -181,6 +181,10 @@ docs-en:
 
   - title:      Ch 8. When Models Meet Data
     children:
+      - title: 0. Intro
+        url: /2022/08/15/ch8-0.html
+      - title: 1. Data, Models, and Learning
+        url: /2022/08/15/ch8-1.html
 
   - title:      Ch 9. Linear Regression
     children:
