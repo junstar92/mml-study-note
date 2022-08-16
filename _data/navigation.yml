@@ -185,6 +185,8 @@ docs-en:
         url: /2022/08/15/ch8-0.html
       - title: 1. Data, Models, and Learning
         url: /2022/08/15/ch8-1.html
+      - title: 2. Empirical Risk Minimization
+        url: /2022/08/16/ch8-2.html
 
   - title:      Ch 9. Linear Regression
     children:
