@@ -191,6 +191,8 @@ docs-en:
         url: /2022/08/18/ch8-3.html
       - title: 4. Probabilistic Modeling and Inference
         url: /2022/08/22/ch8-4.html
+      - title: 5. Directed Graphical Models
+        url: /2022/08/23/ch8-5.html
 
   - title:      Ch 9. Linear Regression
     children:
