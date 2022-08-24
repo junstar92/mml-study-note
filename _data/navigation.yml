@@ -193,6 +193,8 @@ docs-en:
         url: /2022/08/22/ch8-4.html
       - title: 5. Directed Graphical Models
         url: /2022/08/23/ch8-5.html
+      - title: 6. Model Selection
+        url: /2022/08/24/ch8-6.html
 
   - title:      Ch 9. Linear Regression
     children:
