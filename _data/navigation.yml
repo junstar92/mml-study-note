@@ -198,6 +198,12 @@ docs-en:
 
   - title:      Ch 9. Linear Regression
     children:
+      - title: 0. Intro
+        url: /2022/08/27/ch9-0.html
+      - title: 1. Problem Formulation
+        url: /2022/08/27/ch9-1.html
+      - title: 2. Parameter Estimation
+        url: /2022/08/27/ch9-2.html
 
   - title:      Ch 10. Dimensionality Reduction with Principal Component Analysis
     children:
