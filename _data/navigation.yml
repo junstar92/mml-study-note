@@ -204,6 +204,8 @@ docs-en:
         url: /2022/08/27/ch9-1.html
       - title: 2. Parameter Estimation
         url: /2022/08/27/ch9-2.html
+      - title: 3. Bayesian Linear Regression
+        url: /2022/08/29/ch9-3.html
 
   - title:      Ch 10. Dimensionality Reduction with Principal Component Analysis
     children:
